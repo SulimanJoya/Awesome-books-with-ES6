@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -7,7 +12,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     <!-- - [Tech Stack](#tech-stack) -->
-    - [Key Features](#key-features) 
+    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -20,8 +25,8 @@
 <!-- - [🔭 Future Features](#future-features) -->
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-<!-- - [🙏 Acknowledgements](#acknowledgements) -->
-<!-- - [❓ FAQ](#faq) -->
+  <!-- - [🙏 Acknowledgements](#acknowledgements) -->
+  <!-- - [❓ FAQ](#faq) -->
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -65,18 +70,17 @@
   </ul>
 </details>
  -->
- 
+
 <!-- Features -->
 
- ### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
+- **Responsive**
+- **Dynamic-Pages**
+- **ES6-Modules-and-Arrow-functions**
 
-- **[Responsive]**
-- **[Dynamic-Pages]**
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -175,15 +179,13 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-<!-- ## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] None at the moment
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
