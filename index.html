@@ -1,12 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Awesome books with ES6</title>
-</head>
-<body>
-  
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Balsamiq Sans"
+      rel="stylesheet"
+    />
+    <title>Awesome books with ES6</title>
+  </head>
+  <body>
+    <main class="container">
+      <header>
+        <!-- Navbar start here -->
+        <nav>
+          <div>Awesome Books</div>
+          <ul>
+            <li id="list">
+              <a href="#Book-list">List</a>
+            </li>
+            <li id="add-new">
+              <a href="#Add-new">Add new</a>
+            </li>
+            <li class="contact">
+              <a href="#contact">Contact</a>
+            </li>
+          </ul>
+        </nav>
+        <!-- Navbar end here -->
+      </header>
+      <!-- Date section  -->
+      <div class="date"><p id="date"></p></div>
+      <!-- Books section start here  -->
+      <section class="books hide block" id="Book-list">
+        <h1>All Awesome Books</h1>
+        <div id="booksList" class="booksList"></div>
+      </section>
+      <!-- Form section start here  -->
+      <section class="input-form hide" id="Add-new">
+        <h2>Add a new book</h2>
+        <form class="form">
+          <input
+            class="title"
+            type="text"
+            name="book name"
+            placeholder="Title"
+          />
+          <br />
+          <input
+            class="author"
+            type="text"
+            name="author"
+            placeholder="Author"
+          />
+          <br />
+          <button id="addBtn" type="button">Add</button><br />
+        </form>
+      </section>
+      <!-- Contact me section is start here  -->
+      <section id="contact" class="hide">
+        <div class="contact-holder">
+          <div class="contact-header">
+            <h2>Contact Information</h2>
+          </div>
+          <div class="contact-text">
+            <p>Do you have any questions or you just want to say hello?</p>
+            <p class="text-2">You can reach out to us!</p>
+          </div>
+          <ul class="contact-list">
+            <li>email: sjoya66@gmail.com</li>
+            <li>Phone number: +93787089703</li>
+            <li>Address: Kabul, Afghanistan</li>
+          </ul>
+        </div>
+      </section>
+    </main>
+    <!-- Footer section  -->
+    <footer class="footer">
+      <p>Copyright...</p>
+      <p>sjoya66@gmail.com</p>
+    </footer>
+    <script type="module" src="index.js"></script>
+  </body>
 </html>
