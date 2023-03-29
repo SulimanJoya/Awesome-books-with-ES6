@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -72,6 +71,7 @@
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
+
 - **Responsive**
 - **Dynamic-Pages**
 - **ES6-Modules-and-Arrow-functions**
@@ -233,7 +233,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is licensed.
+This project is [MIT license](./License.txt) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
